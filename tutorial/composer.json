@@ -1,0 +1,22 @@
+{
+    "name": "iman/symfony-tutorial",
+    "description": "tutorial symfony dari dasar banget",
+    "require": {
+        "symfony/symfony": "^3.3"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tutorial\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "milh cbt",
+            "email": "milh_cbt@yahoo.com"
+        }
+    ]
+}
