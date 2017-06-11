@@ -1,0 +1,16 @@
+{
+    "name": "suteki/siakad-bpmn",
+    "description": "bpmn module for siakad",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^6.2"
+    },
+    "license": "suteki (c) 2017",
+    "authors": [
+        {
+            "name": "milh cbt",
+            "email": "milh_cbt@yahoo.com"
+        }
+    ],
+    "require": {}
+}
