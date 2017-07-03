@@ -1,0 +1,42 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "62c16854441838395301137886a75216",
+    "packages": [
+        {
+            "name": "milh/libone",
+            "version": "dev-master",
+            "dist": {
+                "type": "path",
+                "url": "../library",
+                "reference": "ff387d24fe09a53609810aa94a0e58ef4252a50e",
+                "shasum": null
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "": "src/"
+                }
+            },
+            "authors": [
+                {
+                    "name": "milh cbt",
+                    "email": "milh_cbt@yahoo.com"
+                }
+            ]
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "milh/libone": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

@@ -8,12 +8,14 @@
     ],
     "autoload": {
         "psr-4": {
-            "Tutorial\\":"src",
-            "N001\\":"src"
-        },
-        "exclude-from-classmap": [
-            "/002/"
-        ]
-    },
-    "require": {}
+		"test\\":"src/"
+        }
+    },"repositories": [ 
+	    { "type": "path", 
+	      "url": "../library" 
+	    }
+    ],
+    "require":{
+	"milh/libone":"dev-master"
+    }
 }

@@ -1,0 +1,15 @@
+{
+    "name": "milh/libone",
+    "authors": [
+        {
+            "name": "milh cbt",
+            "email": "milh_cbt@yahoo.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4": {
+		 "": "src/"
+	}		    
+    }
+}
